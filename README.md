@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Computer Science & Technology.
+
+Projects:
+
+- [AcBlog](https://github.com/acblog/acblog)
+- [Linq-in-Rust](https://github.com/StardustDL/Linq-in-Rust)
+- [ImagingS](https://github.com/StardustDL/ImagingS)
