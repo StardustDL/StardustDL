@@ -13,6 +13,7 @@
 - 🧪 My course labs are at [StardustDL-Labs](https://github.com/StardustDL-Labs).
 - 🌱 I like C# & Rust, and am interested in functional programming.
 
+<!--
 Some of my projects in organizations:
 
 [![AcBlog](https://github-readme-stats.vercel.app/api/pin/?username=acblog&repo=acblog)](https://github.com/acblog/acblog)
@@ -20,7 +21,7 @@ Some of my projects in organizations:
 [![NJU-ICS-PA](https://github-readme-stats.vercel.app/api/pin/?username=StardustDL-Labs&repo=NJU-ICS-PA)](https://github.com/StardustDL/NJU-ICS-PA)
 [![iExpr.Core](https://github-readme-stats.vercel.app/api/pin/?username=iExpr&repo=iExpr.Core)](https://github.com/iExpr/iExpr.Core)
 
-<!--
+
 [![AcBlog](https://github-readme-stats.vercel.app/api/pin/?username=acblog&repo=acblog)](https://github.com/acblog/acblog)
 [![Linq-in-Rust](https://github-readme-stats.vercel.app/api/pin/?username=StardustDL&repo=Linq-in-Rust)](https://github.com/StardustDL/Linq-in-Rust)
 [![ImagingS](https://github-readme-stats.vercel.app/api/pin/?username=StardustDL&repo=ImagingS)](https://github.com/StardustDL/ImagingS)
