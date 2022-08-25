@@ -9,9 +9,8 @@
 </a>-->
 
 - 📗 I’m currently learning Computer Science & Technology.
-- ✨ Recently I'm working on my blog system [AcBlog](https://github.com/acblog/acblog).
-- 🧪 My course labs are at [StardustDL-Labs](https://github.com/StardustDL-Labs).
-- 🌱 I like C# & Rust, and am interested in functional programming.
+- ✨ Recently I'm working on the reseaches about software community ecology. [AexPy](https://github.com/StardustDL/aexpy)
+- 🌱 I like C# & Rust & Python, and am interested in functional programming.
 
 <!--
 Some of my projects in organizations:
